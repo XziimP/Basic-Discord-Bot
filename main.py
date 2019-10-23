@@ -17,7 +17,7 @@ prefix = "!"
 client = Bot(command_prefix=prefix)
 
 # if you want to remove the deafult HELP command
-client.remove_command('help')
+# client.remove_command('help')
 
 
 #Its a event which will run when the bot is ready/online.
