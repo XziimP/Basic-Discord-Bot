@@ -3,7 +3,9 @@ Its an example of basic discord bot in discord.py async version.
 
 **Installation**
 ```
-**First if you have not done this than load these you need it:
+**First download Python3.7 or the latest version google how to do it for your version of Linux.
+
+**Second if you have not done this than load these you need it:
 # Linux/OS X
 python3 -m pip install -U discord.py
 
