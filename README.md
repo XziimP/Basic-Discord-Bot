@@ -19,14 +19,8 @@ python3 -m pip install -U discord.py[voice]
 # Windows
 py -3 -m pip install -U discord.py[voice]
 
-
-pip install -r requirements.txt
-
-Enter your discord bot token and run.
-
-*Or my Linux instructions below )) ^^ really geezuz christ..
-
+**3
 
 * sudo pip3 install -r requirements.txt
 * place your bot token in bot.py
-* Run with> python bot.py
+* Run with> python main.py
